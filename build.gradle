@@ -1,0 +1,13 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.banderous.upm:plugin:1.+'
+    }
+}
+
+subprojects {
+    apply plugin: 'com.banderous.upm'
+}
+

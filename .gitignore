@@ -1,0 +1,7 @@
+ProjectSettings/
+Library/
+Temp/
+nxt/
+.gradle/
+**/*.DS_Store
+build/

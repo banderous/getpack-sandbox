@@ -1,4 +1,4 @@
 {
-  "repositories": [],
-  "dependencies": []
+  "repositories": ["../build/repo"],
+  "dependencies": ["com.google:android-support:23.0.0"]
 }

@@ -1,4 +1,5 @@
 {
+  "repositories": ["../build/repo"],
   "packages": [
     {
       "id": "com.google:android-support:23.0.0",
@@ -8,12 +9,11 @@
       "dependencies": []
     },
     {
-      "id": "darktable:minijson:1.0.0",
+      "id": "darktable:minijson:1.1.0",
       "roots": [
         "Plugins/darktable/minijson/**"
       ],
       "dependencies": []
     }
-  ],
-  "repositories": ["../build/repo"]
+  ]
 }

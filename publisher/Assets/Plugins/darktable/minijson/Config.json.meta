@@ -1,12 +1,8 @@
 fileFormatVersion: 2
-guid: 6dffa78f8db374bb387627591935d704
-timeCreated: 1484924544
+guid: 2d25dd5660ded423e8b5fb73a0be6acd
+timeCreated: 1485338334
 licenseType: Pro
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
+TextScriptImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,4 +1,12 @@
 {
-  "packages": [],
-  "repositories": []
+  "packages": [
+    {
+      "id": "darktable:minijson:1.0.0",
+      "roots": [
+        "Plugins/darktable/minijson/**"
+      ],
+      "dependencies": []
+    }
+  ],
+  "repositories": ["../build/repo"]
 }

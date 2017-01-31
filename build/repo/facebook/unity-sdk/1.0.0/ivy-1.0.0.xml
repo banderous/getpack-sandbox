@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0">
+  <info organisation="facebook" module="unity-sdk" revision="1.0.0" status="integration" publication="20170127121102"/>
+  <configurations/>
+  <publications>
+    <artifact name="unity-sdk" type="unitypackage" ext="unitypackage"/>
+    <artifact name="unity-sdk" type="manifest" ext="manifest"/>
+  </publications>
+  <dependencies>
+    <dependency org="com.google" name="android-support" rev="22.0.0"/>
+  </dependencies>
+</ivy-module>

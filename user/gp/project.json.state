@@ -1,6 +1,6 @@
 {
   "repositories": ["../build/repo"],
   "dependencies": [
-    
+    "facebook:unity-sdk:1.0.0"
   ]
 }

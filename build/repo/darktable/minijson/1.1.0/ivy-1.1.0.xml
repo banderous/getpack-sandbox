@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0">
+  <info organisation="darktable" module="minijson" revision="1.1.0" status="integration" publication="20170127111140"/>
+  <configurations/>
+  <publications>
+    <artifact name="minijson" type="unitypackage" ext="unitypackage"/>
+    <artifact name="minijson" type="manifest" ext="manifest"/>
+  </publications>
+  <dependencies/>
+</ivy-module>

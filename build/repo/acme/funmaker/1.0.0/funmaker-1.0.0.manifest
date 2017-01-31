@@ -1,0 +1,1 @@
+{"files":{"09bcfe8ef20864b61a761c5abbd8a109":{"md5":"d41d8cd98f00b204e9800998ecf8427e","path":"Assets/Plugins/acme/funmaker/Fun.cs"}},"pack":{"id":"acme:funmaker:1.0.0","roots":["Plugins/acme/funmaker/**"],"dependencies":["com.google:android-support:22.+","darktable:minijson:1.+"]}}

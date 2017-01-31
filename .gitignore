@@ -4,4 +4,3 @@ Temp/
 nxt/
 .gradle/
 **/*.DS_Store
-build/

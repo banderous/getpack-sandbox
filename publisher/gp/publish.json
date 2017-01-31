@@ -6,7 +6,16 @@
         "Plugins/darktable/minijson/**"
       ],
       "dependencies": []
+    },
+    {
+      "id": "facebook:unity-sdk:1.0.0",
+      "roots": [
+        "Plugins/facebook/unity-sdk/**"
+      ],
+      "dependencies": ["com.google:android-support:22.0.0"]
     }
   ],
-  "repositories": ["../build/repo"]
+  "repositories": [
+    "../build/repo"
+  ]
 }

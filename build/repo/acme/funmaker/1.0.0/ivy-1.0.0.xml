@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0">
+  <info organisation="acme" module="funmaker" revision="1.0.0" status="integration" publication="20170126083824"/>
+  <configurations/>
+  <publications>
+    <artifact name="funmaker" type="unitypackage" ext="unitypackage"/>
+    <artifact name="funmaker" type="manifest" ext="manifest"/>
+  </publications>
+  <dependencies>
+    <dependency org="com.google" name="android-support" rev="22.+"/>
+    <dependency org="darktable" name="minijson" rev="1.+"/>
+  </dependencies>
+</ivy-module>

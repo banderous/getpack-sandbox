@@ -1,1 +1,0 @@
-{"files":{"296a11236385849b7affe75357dcf342":{"md5":"d41d8cd98f00b204e9800998ecf8427e","path":"Assets/Plugins/facebook/unity-sdk/FB.cs"}},"pack":{"id":"facebook:unity-sdk:1.0.0","roots":["Plugins/facebook/unity-sdk/**"],"dependencies":["com.google:android-support:22.0.0"]}}

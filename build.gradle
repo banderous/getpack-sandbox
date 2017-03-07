@@ -3,11 +3,11 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.banderous.gp:plugin:1.+'
+        classpath 'com.banderous.getpack:plugin:1.+'
     }
 }
 
 subprojects {
-    apply plugin: 'com.banderous.gp'
+    apply plugin: 'com.banderous.getpack'
 }
 

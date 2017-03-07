@@ -6,6 +6,13 @@
         "Plugins/darktable/minijson/**"
       ],
       "dependencies": []
+    },
+    {
+      "id": "google:android-support:23.0.0",
+      "roots": [
+        "Plugins/google/android-support/**"
+      ],
+      "dependencies": []
     }
   ],
   "repositories": [

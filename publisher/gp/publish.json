@@ -13,6 +13,16 @@
         "Plugins/google/android-support/**"
       ],
       "dependencies": []
+    },
+    {
+      "id": "acme:funmaker:1.0.0",
+      "roots": [
+        "Plugins/acme/funmaker/**"
+      ],
+      "dependencies": [
+        "darktable:minijson:1.0.0",
+        "google:android-support:23.0.0"
+      ]
     }
   ],
   "repositories": [

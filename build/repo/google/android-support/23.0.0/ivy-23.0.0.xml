@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0">
-  <info organisation="google" module="android-support" revision="23.0.0" status="integration" publication="20170307200130"/>
+  <info organisation="google" module="android-support" revision="23.0.0" status="integration" publication="20170307200410"/>
   <configurations/>
   <publications>
     <artifact name="android-support" type="zip" ext="zip"/>

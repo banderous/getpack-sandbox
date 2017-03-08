@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "id": "darktable:minijson:1.1.0",
+      "id": "darktable:minijson:1.0.0",
       "roots": [
         "Plugins/darktable/minijson/**"
       ],
